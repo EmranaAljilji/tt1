@@ -1,0 +1,236 @@
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="---------- TNT-SAT ----------" tvg-logo="https://www.freeiconspng.com/uploads/france-flag-icon-3.png" group-title="|EU| FRANCE TNTSAT",---------- TNT-SAT ----------
+http://magco.rip:8000/50583363037459/70521802149085/64491
+#EXTINF:-1 tvg-id="Tf1.mu" tvg-name="TF1 SD" tvg-logo="http://www.topstb.info/logo/FRANCE/TF1HD.png" group-title="|EU| FRANCE TNTSAT",TF1 SD
+http://magco.rip:8000/50583363037459/70521802149085/80982
+#EXTINF:-1 tvg-id="Tf1.mu" tvg-name="TF1 HD" tvg-logo="http://www.topstb.info/logo/FRANCE/TF1HD.png" group-title="|EU| FRANCE TNTSAT",TF1 HD
+http://magco.rip:8000/50583363037459/70521802149085/58
+#EXTINF:-1 tvg-id="Tf1.mu" tvg-name="TF1 FULL HD" tvg-logo="http://www.topstb.info/logo/FRANCE/TF1HD.png" group-title="|EU| FRANCE TNTSAT",TF1 FULL HD
+http://magco.rip:8000/50583363037459/70521802149085/23762
+#EXTINF:-1 tvg-id="Tf1.mu" tvg-name="TF1 FULL HD 1" tvg-logo="http://www.topstb.info/logo/FRANCE/TF1HD.png" group-title="|EU| FRANCE TNTSAT",TF1 FULL HD 1
+http://magco.rip:8000/50583363037459/70521802149085/23761
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="FRANCE 2 SD" tvg-logo="http://www.topstb.info/logo/FRANCE/FRANCE2HD.png" group-title="|EU| FRANCE TNTSAT",FRANCE 2 SD
+http://magco.rip:8000/50583363037459/70521802149085/80983
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="FRANCE 2 HD" tvg-logo="http://www.topstb.info/logo/FRANCE/FRANCE2HD.png" group-title="|EU| FRANCE TNTSAT",FRANCE 2 HD
+http://magco.rip:8000/50583363037459/70521802149085/137
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="FRANCE 2 FULL HD" tvg-logo="http://www.topstb.info/logo/FRANCE/FRANCE2HD.png" group-title="|EU| FRANCE TNTSAT",FRANCE 2 FULL HD
+http://magco.rip:8000/50583363037459/70521802149085/23760
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="FRANCE 3 SD" tvg-logo="http://www.topstb.info/logo/FRANCE/FRANCE3HD.png" group-title="|EU| FRANCE TNTSAT",FRANCE 3 SD
+http://magco.rip:8000/50583363037459/70521802149085/80984
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="FRANCE 3 HD" tvg-logo="http://www.topstb.info/logo/FRANCE/FRANCE3HD.png" group-title="|EU| FRANCE TNTSAT",FRANCE 3 HD
+http://magco.rip:8000/50583363037459/70521802149085/61
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="FRANCE 3 FULL HD" tvg-logo="http://www.topstb.info/logo/FRANCE/FRANCE3HD.png" group-title="|EU| FRANCE TNTSAT",FRANCE 3 FULL HD
+http://magco.rip:8000/50583363037459/70521802149085/23759
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="FRANCE 4 SD" tvg-logo="http://www.topstb.info/logo/FRANCE/FRANCE4HD.png" group-title="|EU| FRANCE TNTSAT",FRANCE 4 SD
+http://magco.rip:8000/50583363037459/70521802149085/80985
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="FRANCE 4 HD" tvg-logo="http://www.topstb.info/logo/FRANCE/FRANCE4HD.png" group-title="|EU| FRANCE TNTSAT",FRANCE 4 HD
+http://magco.rip:8000/50583363037459/70521802149085/60
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="FRANCE 4 FULL HD" tvg-logo="http://www.topstb.info/logo/FRANCE/FRANCE4HD.png" group-title="|EU| FRANCE TNTSAT",FRANCE 4 FULL HD
+http://magco.rip:8000/50583363037459/70521802149085/23758
+#EXTINF:-1 tvg-id="France5.fr" tvg-name="FRANCE 5 SD" tvg-logo="http://www.topstb.info/logo/FRANCE/FRANCE5HD.png" group-title="|EU| FRANCE TNTSAT",FRANCE 5 SD
+http://magco.rip:8000/50583363037459/70521802149085/80986
+#EXTINF:-1 tvg-id="France5.fr" tvg-name="FRANCE 5 HD" tvg-logo="http://www.topstb.info/logo/FRANCE/FRANCE5HD.png" group-title="|EU| FRANCE TNTSAT",FRANCE 5 HD
+http://magco.rip:8000/50583363037459/70521802149085/59
+#EXTINF:-1 tvg-id="France5.fr" tvg-name="FRANCE 5 FULL HD" tvg-logo="http://www.topstb.info/logo/FRANCE/FRANCE5HD.png" group-title="|EU| FRANCE TNTSAT",FRANCE 5 FULL HD
+http://magco.rip:8000/50583363037459/70521802149085/23757
+#EXTINF:-1 tvg-id="FranceO.fr" tvg-name="FRANCE O SD" tvg-logo="http://www.topstb.info/logo/FRANCE/FRANCEOHD.png" group-title="|EU| FRANCE TNTSAT",FRANCE O SD
+http://magco.rip:8000/50583363037459/70521802149085/80987
+#EXTINF:-1 tvg-id="100NLTV.nl" tvg-name="FRANCE O HD" tvg-logo="http://www.topstb.info/logo/FRANCE/FRANCEOHD.png" group-title="|EU| FRANCE TNTSAT",FRANCE O HD
+http://magco.rip:8000/50583363037459/70521802149085/345
+#EXTINF:-1 tvg-id="FranceO.fr" tvg-name="FRANCE O FULL HD" tvg-logo="http://www.institut-viavoice.com/wp-content/uploads/2016/05/logo_france_o.JPG" group-title="|EU| FRANCE TNTSAT",FRANCE O FULL HD
+http://magco.rip:8000/50583363037459/70521802149085/23746
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="M6 SD" tvg-logo="http://www.topstb.info/logo/FRANCE/M6HD.png" group-title="|EU| FRANCE TNTSAT",M6 SD
+http://magco.rip:8000/50583363037459/70521802149085/80988
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="M6 HD" tvg-logo="http://www.topstb.info/logo/FRANCE/M6HD.png" group-title="|EU| FRANCE TNTSAT",M6 HD
+http://magco.rip:8000/50583363037459/70521802149085/138
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="M6 FHD" tvg-logo="http://www.topstb.info/logo/FRANCE/M6HD.png" group-title="|EU| FRANCE TNTSAT",M6 FHD
+http://magco.rip:8000/50583363037459/70521802149085/23756
+#EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-name="PARIS PREMIERE" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/paris_premiere_hd.jpg" group-title="|EU| FRANCE TNTSAT",PARIS PREMIERE
+http://magco.rip:8000/50583363037459/70521802149085/2562
+#EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-name="PARIS PREMIERE FULL HD" tvg-logo="http://www.topstb.info/logo/FRANCE/PARISPREMIEREHD.png" group-title="|EU| FRANCE TNTSAT",PARIS PREMIERE FULL HD
+http://magco.rip:8000/50583363037459/70521802149085/23691
+#EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/TMC_logo_2016.svg/1200px-TMC_logo_2016.svg.png" group-title="|EU| FRANCE TNTSAT",TMC SD
+http://magco.rip:8000/50583363037459/70521802149085/81019
+#EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/TMC_HD.PNG" group-title="|EU| FRANCE TNTSAT",TMC HD
+http://magco.rip:8000/50583363037459/70521802149085/2570
+#EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC FULL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/TMC_HD.PNG" group-title="|EU| FRANCE TNTSAT",TMC FULL HD
+http://magco.rip:8000/50583363037459/70521802149085/23748
+#EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC 1 FULL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/TMC_HD.PNG" group-title="|EU| FRANCE TNTSAT",TMC 1 FULL HD
+http://magco.rip:8000/50583363037459/70521802149085/23747
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="6TER SD" tvg-logo="http://www.topstb.info/logo/FRANCE/6TERHD.png" group-title="|EU| FRANCE TNTSAT",6TER SD
+http://magco.rip:8000/50583363037459/70521802149085/81024
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="6TER HD" tvg-logo="http://www.topstb.info/logo/FRANCE/6TERHD.png" group-title="|EU| FRANCE TNTSAT",6TER HD
+http://magco.rip:8000/50583363037459/70521802149085/673
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="6TER FULL HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/6ter_fr.jpg" group-title="|EU| FRANCE TNTSAT",6TER FULL HD
+http://magco.rip:8000/50583363037459/70521802149085/23750
+#EXTINF:-1 tvg-id="" tvg-name="CHERIE 25 SD" tvg-logo="http://www.topstb.info/logo/FRANCE/CHERIE25HD.png" group-title="|EU| FRANCE TNTSAT",CHERIE 25 SD
+http://magco.rip:8000/50583363037459/70521802149085/81026
+#EXTINF:-1 tvg-id="Cherie25.fr" tvg-name="CHERIE 25" tvg-logo="http://www.topstb.info/logo/FRANCE/CHERIE25HD.png" group-title="|EU| FRANCE TNTSAT",CHERIE 25
+http://magco.rip:8000/50583363037459/70521802149085/133
+#EXTINF:-1 tvg-id="Cherie25.fr" tvg-name="CHERIE 25 FULL HD" tvg-logo="http://www.topstb.info/logo/FRANCE/CHERIE25HD.png" group-title="|EU| FRANCE TNTSAT",CHERIE 25 FULL HD
+http://magco.rip:8000/50583363037459/70521802149085/23689
+#EXTINF:-1 tvg-id="ARTE.fr" tvg-name="ARTE SD" tvg-logo="http://www.topstb.info/logo/FRANCE/ARTEHD.png" group-title="|EU| FRANCE TNTSAT",ARTE SD
+http://magco.rip:8000/50583363037459/70521802149085/80989
+#EXTINF:-1 tvg-id="ARTE.fr" tvg-name="ARTE FR" tvg-logo="http://www.topstb.info/logo/FRANCE/ARTEHD.png" group-title="|EU| FRANCE TNTSAT",ARTE FR
+http://magco.rip:8000/50583363037459/70521802149085/338
+#EXTINF:-1 tvg-id="RMCStory.fr" tvg-name="RMC STORY" tvg-logo="http://www.topstb.info/logo/FRANCE/NUMERO23HD.png" group-title="|EU| FRANCE TNTSAT",RMC STORY
+http://magco.rip:8000/50583363037459/70521802149085/2683
+#EXTINF:-1 tvg-id="RMCStory.fr" tvg-name="RMC STORY SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/RMC_Story_logo_2018.svg/1200px-RMC_Story_logo_2018.svg.png" group-title="|EU| FRANCE TNTSAT",RMC STORY SD
+http://magco.rip:8000/50583363037459/70521802149085/81025
+#EXTINF:-1 tvg-id="NULL" tvg-name="---------- Information ----------" tvg-logo="https://www.freeiconspng.com/uploads/france-flag-icon-3.png" group-title="|EU| FRANCE TNTSAT",---------- Information ----------
+http://magco.rip:8000/50583363037459/70521802149085/64492
+#EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-name="TV5" tvg-logo="http://www.topstb.info/logo/FRANCE/TV5MONDE.png" group-title="|EU| FRANCE TNTSAT",TV5
+http://magco.rip:8000/50583363037459/70521802149085/2611
+#EXTINF:-1 tvg-id="NULL" tvg-name="TV5 MONDE FBS HD" tvg-logo="http://www.topstb.info/logo/FRANCE/TV5MONDE.png" group-title="|EU| FRANCE TNTSAT",TV5 MONDE FBS HD
+http://magco.rip:8000/50583363037459/70521802149085/79358
+#EXTINF:-1 tvg-id="CNews.fr" tvg-name="CNEWS SD" tvg-logo="http://www.topstb.info/logo/FRANCE/CNEWSHD.png" group-title="|EU| FRANCE TNTSAT",CNEWS SD
+http://magco.rip:8000/50583363037459/70521802149085/81064
+#EXTINF:-1 tvg-id="CNews.fr" tvg-name="CNEWS" tvg-logo="http://www.topstb.info/logo/FRANCE/CNEWSHD.png" group-title="|EU| FRANCE TNTSAT",CNEWS
+http://magco.rip:8000/50583363037459/70521802149085/336
+#EXTINF:-1 tvg-id="CNews.fr" tvg-name="CNEWS HD" tvg-logo="http://www.topstb.info/logo/FRANCE/CNEWSHD.png" group-title="|EU| FRANCE TNTSAT",CNEWS HD
+http://magco.rip:8000/50583363037459/70521802149085/79342
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24" tvg-logo="http://www.topstb.info/logo/FRANCE/FRANCE24.png" group-title="|EU| FRANCE TNTSAT",France 24
+http://magco.rip:8000/50583363037459/70521802149085/8096
+#EXTINF:-1 tvg-id="FranceInfo.fr" tvg-name="FRANCE INFO SD" tvg-logo="http://www.topstb.info/logo/FRANCE/FRANCEINFOHD.png" group-title="|EU| FRANCE TNTSAT",FRANCE INFO SD
+http://magco.rip:8000/50583363037459/70521802149085/81065
+#EXTINF:-1 tvg-id="FranceInfo.fr" tvg-name="FRANCE INFO HD" tvg-logo="http://www.topstb.info/logo/FRANCE/FRANCEINFOHD.png" group-title="|EU| FRANCE TNTSAT",FRANCE INFO HD
+http://magco.rip:8000/50583363037459/70521802149085/79339
+#EXTINF:-1 tvg-id="LCI.fr" tvg-name="LCI" tvg-logo="http://www.topstb.info/logo/FRANCE/LCIHD.png" group-title="|EU| FRANCE TNTSAT",LCI
+http://magco.rip:8000/50583363037459/70521802149085/334
+#EXTINF:-1 tvg-id="Euronews.fr" tvg-name="EURONEWS FR" tvg-logo="http://www.topstb.info/logo/FRANCE/EURONEWS%28FRENCH%29.png" group-title="|EU| FRANCE TNTSAT",EURONEWS FR
+http://magco.rip:8000/50583363037459/70521802149085/674
+#EXTINF:-1 tvg-id="Euronews.fr" tvg-name="EURONEWS FRANCE HD" tvg-logo="http://www.topstb.info/logo/FRANCE/EURONEWS%28FRENCH%29.png" group-title="|EU| FRANCE TNTSAT",EURONEWS FRANCE HD
+http://magco.rip:8000/50583363037459/70521802149085/79341
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="BFM TV" tvg-logo="http://www.topstb.info/logo/FRANCE/BFMHD.png" group-title="|EU| FRANCE TNTSAT",BFM TV
+http://magco.rip:8000/50583363037459/70521802149085/2541
+#EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-name="BFM BUSINESS" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/fb/BFM_Business_logo_2016.svg/1024px-BFM_Business_logo_2016.svg.png" group-title="|EU| FRANCE TNTSAT",BFM BUSINESS
+http://magco.rip:8000/50583363037459/70521802149085/78249
+#EXTINF:-1 tvg-id="BFMParis.fr" tvg-name="BFM PARIS FULL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/0/0e/BFM_Paris_logo_2016.svg/1200px-BFM_Paris_logo_2016.svg.png" group-title="|EU| FRANCE TNTSAT",BFM PARIS FULL HD
+http://magco.rip:8000/50583363037459/70521802149085/23745
+#EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-name="BFM BUSINESS SD" tvg-logo="https://fracademic.com/pictures/frwiki/66/BFM_Business_logo_2010.png" group-title="|EU| FRANCE TNTSAT",BFM BUSINESS SD
+http://magco.rip:8000/50583363037459/70521802149085/81062
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="BFM LYON HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Logo_BFM_Lyon_M%C3%A9tropole_2019.png" group-title="|EU| FRANCE TNTSAT",BFM LYON HD
+http://magco.rip:8000/50583363037459/70521802149085/79338
+#EXTINF:-1 tvg-id="LaChaineMeteo.fr" tvg-name="LA CHAINE METEO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/72/La_Cha%C3%AEne_M%C3%A9t%C3%A9o.png" group-title="|EU| FRANCE TNTSAT",LA CHAINE METEO HD
+http://magco.rip:8000/50583363037459/70521802149085/79337
+#EXTINF:-1 tvg-id="I24News.fr" tvg-name="I24 NEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/I24_logo_FINAL_BLUE-02.png/800px-I24_logo_FINAL_BLUE-02.png" group-title="|EU| FRANCE TNTSAT",I24 NEWS HD
+http://magco.rip:8000/50583363037459/70521802149085/79340
+#EXTINF:-1 tvg-id="Weo.fr" tvg-name="WEO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Logo_WEO_TV_2013-2014.png" group-title="|EU| FRANCE TNTSAT",WEO HD
+http://magco.rip:8000/50583363037459/70521802149085/79343
+#EXTINF:-1 tvg-id="NULL" tvg-name="GRAND LILLE TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/a/a5/Logo_grandlilletv-2015.jpg" group-title="|EU| FRANCE TNTSAT",GRAND LILLE TV HD
+http://magco.rip:8000/50583363037459/70521802149085/79344
+#EXTINF:-1 tvg-id="IDF1.fr" tvg-name="IDF 1 HD/SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/a/a6/IDF1_logo_2017.png" group-title="|EU| FRANCE TNTSAT",IDF 1 HD/SD
+http://magco.rip:8000/50583363037459/70521802149085/79345
+#EXTINF:-1 tvg-id="DemainTV.fr" tvg-name="DEMAIN ! IDF" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/26/Demain_TV_logo_2011.png" group-title="|EU| FRANCE TNTSAT",DEMAIN ! IDF
+http://magco.rip:8000/50583363037459/70521802149085/79346
+#EXTINF:-1 tvg-id="Canal32.fr" tvg-name="CANAL 31 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Channel_31_logo.png/240px-Channel_31_logo.png" group-title="|EU| FRANCE TNTSAT",CANAL 31 HD
+http://magco.rip:8000/50583363037459/70521802149085/79347
+#EXTINF:-1 tvg-id="NULL" tvg-name="LA CHAINE PARLEMENTAIRE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/LCP.png" group-title="|EU| FRANCE TNTSAT",LA CHAINE PARLEMENTAIRE HD
+http://magco.rip:8000/50583363037459/70521802149085/79348
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="TF1 SERIES-FILMS SD" tvg-logo="http://www.topstb.info/logo/FRANCE/TF1SERIESFILMSHD.png" group-title="|EU| FRANCE TNTSAT",TF1 SERIES-FILMS SD
+http://magco.rip:8000/50583363037459/70521802149085/81023
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="TF1 SERIES FILMS" tvg-logo="http://www.topstb.info/logo/FRANCE/TF1SERIESFILMSHD.png" group-title="|EU| FRANCE TNTSAT",TF1 SERIES FILMS
+http://magco.rip:8000/50583363037459/70521802149085/9472
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="TF1 SERIES FILMS FULL HD" tvg-logo="http://img.over-blog-kiwi.com/2/03/26/89/obpicUUeo10.jpeg" group-title="|EU| FRANCE TNTSAT",TF1 SERIES FILMS FULL HD
+http://magco.rip:8000/50583363037459/70521802149085/23754
+#EXTINF:-1 tvg-id="RMCStory.fr" tvg-name="RMC STORY" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/RMC_Story_logo_2018.svg/572px-RMC_Story_logo_2018.svg.png" group-title="|EU| FRANCE TNTSAT",RMC STORY
+http://magco.rip:8000/50583363037459/70521802149085/46189
+#EXTINF:-1 tvg-id="NULL" tvg-name="---------- Cinema ----------" tvg-logo="https://www.freeiconspng.com/uploads/france-flag-icon-3.png" group-title="|EU| FRANCE GENERALISTE",---------- Cinema ----------
+http://magco.rip:8000/50583363037459/70521802149085/64489
+#EXTINF:-1 tvg-id="" tvg-name="CANAL  SD" tvg-logo="https://static.timesofisrael.com/fr/uploads/2019/08/Capture-d%E2%80%99e%CC%81cran-2019-08-29-a%CC%80-12.57.14.png" group-title="|EU| FRANCE GENERALISTE",CANAL  SD
+http://magco.rip:8000/50583363037459/70521802149085/80992
+#EXTINF:-1 tvg-id="fr.Canal+" tvg-name="CANAL+ HD" tvg-logo="http://www.topstb.info/logo/FRANCE/CANAL%2BHD.png" group-title="|EU| FRANCE GENERALISTE",CANAL+ HD
+http://magco.rip:8000/50583363037459/70521802149085/52
+#EXTINF:-1 tvg-id="" tvg-name="CANAL  FULL HD" tvg-logo="https://cdn.bein.net/fr/wp-content/uploads/2015/06/CANALnoir-1.jpg" group-title="|EU| FRANCE GENERALISTE",CANAL  FULL HD
+http://magco.rip:8000/50583363037459/70521802149085/23778
+#EXTINF:-1 tvg-id="fr.Canal+ Cinéma" tvg-name="CANAL+ CINEMA HD" tvg-logo="http://www.topstb.info/logo/FRANCE/CANAL%2BCINEMAHD.png" group-title="|EU| FRANCE GENERALISTE",CANAL+ CINEMA HD
+http://magco.rip:8000/50583363037459/70521802149085/56
+#EXTINF:-1 tvg-id="" tvg-name="CANAL  CINEMA FULL HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalplus_fr_cinema_hd.jpg" group-title="|EU| FRANCE GENERALISTE",CANAL  CINEMA FULL HD
+http://magco.rip:8000/50583363037459/70521802149085/23777
+#EXTINF:-1 tvg-id="" tvg-name="CANAL FAMILY SD" tvg-logo="http://www.topstb.info/logo/FRANCE/CANAL%2BFAMILYHD.png" group-title="|EU| FRANCE GENERALISTE",CANAL FAMILY SD
+http://magco.rip:8000/50583363037459/70521802149085/80993
+#EXTINF:-1 tvg-id="fr.Canal+ Family" tvg-name="CANAL+ FAMILY HD" tvg-logo="http://www.topstb.info/logo/FRANCE/CANAL%2BFAMILYHD.png" group-title="|EU| FRANCE GENERALISTE",CANAL+ FAMILY HD
+http://magco.rip:8000/50583363037459/70521802149085/53
+#EXTINF:-1 tvg-id="" tvg-name="CANAL  FAMILY FULL HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalplus_fr_family_hd.jpg" group-title="|EU| FRANCE GENERALISTE",CANAL  FAMILY FULL HD
+http://magco.rip:8000/50583363037459/70521802149085/23775
+#EXTINF:-1 tvg-id="" tvg-name="OCS CHOC SD" tvg-logo="http://www.topstb.info/logo/FRANCE/OCSCHOCHD.png" group-title="|EU| FRANCE GENERALISTE",OCS CHOC SD
+http://magco.rip:8000/50583363037459/70521802149085/80997
+#EXTINF:-1 tvg-id="fr.OCS Choc" tvg-name="OCS CHOC" tvg-logo="http://www.topstb.info/logo/FRANCE/OCSCHOCHD.png" group-title="|EU| FRANCE GENERALISTE",OCS CHOC
+http://magco.rip:8000/50583363037459/70521802149085/2561
+#EXTINF:-1 tvg-id="" tvg-name="OCS CHOC FULL HD" tvg-logo="http://www.topstb.info/logo/FRANCE/OCSCHOCHD.png" group-title="|EU| FRANCE GENERALISTE",OCS CHOC FULL HD
+http://magco.rip:8000/50583363037459/70521802149085/23766
+#EXTINF:-1 tvg-id="" tvg-name="OCS MAX SD" tvg-logo="http://www.topstb.info/logo/FRANCE/OCSMAXHD.png" group-title="|EU| FRANCE GENERALISTE",OCS MAX SD
+http://magco.rip:8000/50583363037459/70521802149085/81000
+#EXTINF:-1 tvg-id="fr.OCS Max" tvg-name="OCS MAX HD" tvg-logo="http://www.topstb.info/logo/FRANCE/OCSMAXHD.png" group-title="|EU| FRANCE GENERALISTE",OCS MAX HD
+http://magco.rip:8000/50583363037459/70521802149085/2693
+#EXTINF:-1 tvg-id="fr.OCS Max" tvg-name="OCS MAX FULL HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ocs_max_hd.jpg" group-title="|EU| FRANCE GENERALISTE",OCS MAX FULL HD
+http://magco.rip:8000/50583363037459/70521802149085/23763
+#EXTINF:-1 tvg-id="" tvg-name="OCS CITY SD" tvg-logo="http://www.topstb.info/logo/FRANCE/OCSCITYHD.png" group-title="|EU| FRANCE GENERALISTE",OCS CITY SD
+http://magco.rip:8000/50583363037459/70521802149085/80998
+#EXTINF:-1 tvg-id="fr.OCS City" tvg-name="OCS CITY" tvg-logo="http://www.topstb.info/logo/FRANCE/OCSCITYHD.png" group-title="|EU| FRANCE GENERALISTE",OCS CITY
+http://magco.rip:8000/50583363037459/70521802149085/134
+#EXTINF:-1 tvg-id="fr.OCS City" tvg-name="OCS CITY FULL HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ocs_city.jpg" group-title="|EU| FRANCE GENERALISTE",OCS CITY FULL HD
+http://magco.rip:8000/50583363037459/70521802149085/23765
+#EXTINF:-1 tvg-id="" tvg-name="OCS GEANTS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/d7/OCS_G%C3%A9ants_HD.png" group-title="|EU| FRANCE GENERALISTE",OCS GEANTS SD
+http://magco.rip:8000/50583363037459/70521802149085/80999
+#EXTINF:-1 tvg-id="fr.OCS Géants" tvg-name="OCS GEANTS" tvg-logo="https://cdn.tv-programme.com/pic/chaines_wide/9.png" group-title="|EU| FRANCE GENERALISTE",OCS GEANTS
+http://magco.rip:8000/50583363037459/70521802149085/2682
+#EXTINF:-1 tvg-id="fr.OCS Géants" tvg-name="OCS GEANT FULL HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ocs_geants.jpg" group-title="|EU| FRANCE GENERALISTE",OCS GEANT FULL HD
+http://magco.rip:8000/50583363037459/70521802149085/23764
+#EXTINF:-1 tvg-id="fr.Ciné+ Premier" tvg-name="CINE PREMIER HD" tvg-logo="http://www.topstb.info/logo/FRANCE/CINE%2BPREMIEREHD.png" group-title="|EU| FRANCE GENERALISTE",CINE PREMIER HD
+http://magco.rip:8000/50583363037459/70521802149085/135
+#EXTINF:-1 tvg-id="" tvg-name="CINE  PREMIER FULL HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalplus_fr_cine_plus_premier_hd.jpg" group-title="|EU| FRANCE GENERALISTE",CINE  PREMIER FULL HD
+http://magco.rip:8000/50583363037459/70521802149085/23772
+#EXTINF:-1 tvg-id="fr.Ciné+ Emotion" tvg-name="CINE EMOTION HD" tvg-logo="http://www.topstb.info/logo/FRANCE/CINE%2BEMOTIONHD.png" group-title="|EU| FRANCE GENERALISTE",CINE EMOTION HD
+http://magco.rip:8000/50583363037459/70521802149085/136
+#EXTINF:-1 tvg-id="" tvg-name="CINE EMOTION FULL HD" tvg-logo="http://www.topstb.info/logo/FRANCE/CINE%2BEMOTIONHD.png" group-title="|EU| FRANCE GENERALISTE",CINE EMOTION FULL HD
+http://magco.rip:8000/50583363037459/70521802149085/23769
+#EXTINF:-1 tvg-id="fr.Ciné+ Frisson" tvg-name="CINE FRISSON HD" tvg-logo="http://www.topstb.info/logo/FRANCE/CINE%2BFRISSONHD.png" group-title="|EU| FRANCE GENERALISTE",CINE FRISSON HD
+http://magco.rip:8000/50583363037459/70521802149085/64
+#EXTINF:-1 tvg-id="" tvg-name="CINE  FRISSON FULL HD" tvg-logo="http://www.topstb.info/logo/FRANCE/CINE%2BFRISSONHD.png" group-title="|EU| FRANCE GENERALISTE",CINE  FRISSON FULL HD
+http://magco.rip:8000/50583363037459/70521802149085/23771
+#EXTINF:-1 tvg-id="fr.Ciné+ Famiz" tvg-name="CINE FAMIZ HD" tvg-logo="http://www.topstb.info/logo/FRANCE/CINE%2BFAMIZHD.png" group-title="|EU| FRANCE GENERALISTE",CINE FAMIZ HD
+http://magco.rip:8000/50583363037459/70521802149085/65
+#EXTINF:-1 tvg-id="" tvg-name="CINE  FAMIZ FULL HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalplus_fr_cine_plus_famiz.jpg" group-title="|EU| FRANCE GENERALISTE",CINE  FAMIZ FULL HD
+http://magco.rip:8000/50583363037459/70521802149085/23770
+#EXTINF:-1 tvg-id="fr.Ciné+ Classic" tvg-name="CINE  CLASSIC HD" tvg-logo="http://www.topstb.info/logo/FRANCE/CINE%2BCLASSICHD.png" group-title="|EU| FRANCE GENERALISTE",CINE  CLASSIC HD
+http://magco.rip:8000/50583363037459/70521802149085/67
+#EXTINF:-1 tvg-id="" tvg-name="CINE CLASSIC FULL HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalplus_fr_cine_plus_classic.jpg" group-title="|EU| FRANCE GENERALISTE",CINE CLASSIC FULL HD
+http://magco.rip:8000/50583363037459/70521802149085/23768
+#EXTINF:-1 tvg-id="" tvg-name="My Comedy" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",My Comedy
+http://magco.rip:8000/50583363037459/70521802149085/98918
+#EXTINF:-1 tvg-id="" tvg-name="Comedy central" tvg-logo="" group-title="|EU| FRANCE GENERALISTE",Comedy central
+http://magco.rip:8000/50583363037459/70521802149085/98917
+#EXTINF:-1 tvg-id="" tvg-name="ACTION SD" tvg-logo="http://www.topstb.info/logo/FRANCE/ACTIONHD.png" group-title="|EU| FRANCE GENERALISTE",ACTION SD
+http://magco.rip:8000/50583363037459/70521802149085/81004
+#EXTINF:-1 tvg-id="fr.Action" tvg-name="ACTION" tvg-logo="http://www.topstb.info/logo/FRANCE/ACTIONHD.png" group-title="|EU| FRANCE GENERALISTE",ACTION
+http://magco.rip:8000/50583363037459/70521802149085/611
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT CHANNEL SD" tvg-logo="http://www.topstb.info/logo/FRANCE/PARAMOUNTCHANNELHD.png" group-title="|EU| FRANCE GENERALISTE",PARAMOUNT CHANNEL SD
+http://magco.rip:8000/50583363037459/70521802149085/81003
+#EXTINF:-1 tvg-id="fr.Paramount Channel" tvg-name="PARAMOUNT CHANNEL DECALE" tvg-logo="http://www.topstb.info/logo/FRANCE/PARAMOUNTCHANNELHD.png" group-title="|EU| FRANCE GENERALISTE",PARAMOUNT CHANNEL DECALE
+http://magco.rip:8000/50583363037459/70521802149085/2690
+#EXTINF:-1 tvg-id="fr.Paramount Channel" tvg-name="PARAMOUNT DECALE FULL HD" tvg-logo="http://www.topstb.info/logo/FRANCE/PARAMOUNTCHANNELHD.png" group-title="|EU| FRANCE GENERALISTE",PARAMOUNT DECALE FULL HD
+http://magco.rip:8000/50583363037459/70521802149085/23734
+#EXTINF:-1 tvg-id="fr.Paramount Channel" tvg-name="PARAMOUNT CHANNEL FULLHD" tvg-logo="http://www.topstb.info/logo/FRANCE/PARAMOUNTCHANNELHD.png" group-title="|EU| FRANCE GENERALISTE",PARAMOUNT CHANNEL FULLHD
+http://magco.rip:8000/50583363037459/70521802149085/23735
+#EXTINF:-1 tvg-id="fr.TvBreizh" tvg-name="TV BREIZH" tvg-logo="https://images.ladepeche.fr/api/v1/images/view/5c87a6c28fe56f77d2772a45/large/image.jpg" group-title="|EU| FRANCE GENERALISTE",TV BREIZH
+http://magco.rip:8000/50583363037459/70521802149085/5245
+#EXTINF:-1 tvg-id="fr.TvBreizh" tvg-name="TV BREIZH FULL HD" tvg-logo="https://images.ladepeche.fr/api/v1/images/view/5c87a6c28fe56f77d2772a45/large/image.jpg" group-title="|EU| FRANCE GENERALISTE",TV BREIZH FULL HD
+http://magco.rip:8000/50583363037459/70521802149085/23698
+#EXTINF:-1 tvg-id="fr.Action" tvg-name="ACTION FULL HD" tvg-logo="http://www.topstb.info/logo/FRANCE/ACTIONHD.png" group-title="|EU| FRANCE GENERALISTE",ACTION FULL HD
+http://magco.rip:8000/50583363037459/70521802149085/23681
+#EXTINF:-1 tvg-id="" tvg-name="----------BOX OFFICE ----------" tvg-logo="https://www.freeiconspng.com/uploads/france-flag-icon-3.png" group-title="|EU| FRANCE GENERALISTE",----------BOX OFFICE ----------
+http://up.otttv.co/Slimbox%20Series/ottopluslogo.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalsat_a_la_carte_1.jpg" group-title="|EU| FRANCE GENERALISTE",A LA CARTE 1
+http://magco.rip:8000/50583363037459/70521802149085/544
+#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 2" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalsat_a_la_carte_2.jpg" group-title="|EU| FRANCE GENERALISTE",A LA CARTE 2
+http://magco.rip:8000/50583363037459/70521802149085/545
+#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 3" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalsat_a_la_carte_3.jpg" group-title="|EU| FRANCE GENERALISTE",A LA CARTE 3
+http://magco.rip:8000/50583363037459/70521802149085/546
+#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 4" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalsat_a_la_carte_4.jpg" group-title="|EU| FRANCE GENERALISTE",A LA CARTE 4
+http://magco.rip:8000/50583363037459/70521802149085/539
+#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 5" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalsat_a_la_carte_5.jpg" group-title="|EU| FRANCE GENERALISTE",A LA CARTE 5
